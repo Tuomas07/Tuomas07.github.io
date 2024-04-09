@@ -1,0 +1,22 @@
+p {
+	color: hotpink;
+	font-aize: 20px;
+	font-weight: bold;
+	font-family: Arial;
+
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+	text decoration: underline;
+	text transform: uppercase;
+	letter-spacig 1px;
+}
+
+
+h2 {
+	font-size: 60px;
+	font-weight: normal;
+}
